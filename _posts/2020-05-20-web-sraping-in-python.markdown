@@ -7,7 +7,7 @@ categories:
         - Test
 tags: 
     - Python programming
-    - Sraping]
+    - Sraping
 ---
 
 Hello there. How you doing?! 
