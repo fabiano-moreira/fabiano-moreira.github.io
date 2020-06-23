@@ -107,7 +107,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments:
+        provider: "disqus"
+        disqus:
+          shortname: "fabianomalves-com"
       share: true
       related: true
   # _pages
