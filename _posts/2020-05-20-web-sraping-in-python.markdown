@@ -1,7 +1,6 @@
 ---
 title: "Web Sraping in Python"
-date: 2020, May 27
-author: Fabiano M
+date: 2019-05-20
 categories: 
         - blog
 tags: 
