@@ -1,9 +1,15 @@
 ---
-title:  "Web Sraping in Python"
-date:   2020-05-27 12:47:38
-categories: [python]
-tags: [python]
+title: "Web Sraping in Python"
+date: 2020, May 27
+author: Fabiano M
+categories: 
+        - Project
+        - Test
+tags: 
+    - Python programming
+    - Sraping]
 ---
+
 Hello there. How you doing?! 
 
 In this post, I'm sharing some code in Python. This code was a job test.
