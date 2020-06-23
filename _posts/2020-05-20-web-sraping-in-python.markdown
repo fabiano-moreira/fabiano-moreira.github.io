@@ -1,7 +1,7 @@
 ---
 title: "Web Sraping in Python"
 date: 2019-05-20
-categories: 
+language: 
     - english
 tags: 
     - Python programming
