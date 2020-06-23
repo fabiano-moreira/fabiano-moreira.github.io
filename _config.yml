@@ -64,7 +64,6 @@ author:
   # avatar : "/assets/images/bio-photo.jpg"
   avatar : "/assets/images/fabiano.jpg"
   bio    : "Fabiano's data science and data analysis blog"
-  uri: "https://fabianomalves.com/"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
