@@ -22,6 +22,8 @@ github_username: username
 linkedin_username: username
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
+og_image                 : "/assets/images/fabiano-og.jpg"
+
 
 # Build settings
 markdown: kramdown
@@ -59,7 +61,7 @@ plugins:
 author:
   name   : "Fabiano M Alves"
   # avatar : "/assets/images/bio-photo.jpg"
-  avatar : "https://fabianomalves.com/assets/images/fabiano.jpg"
+  avatar : "/assets/images/fabiano.jpg"
   bio    : "Fabiano's data science and data analysis blog"
   links:
     - label: "Website"
