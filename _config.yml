@@ -23,7 +23,7 @@ linkedin_username: username
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 og_image                 : "/assets/images/fabiano-og.jpg"
-teaser                   : "/assets/images/fabiano-teaser.jpg"
+
 
 
 # Build settings
