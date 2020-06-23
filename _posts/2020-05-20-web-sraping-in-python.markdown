@@ -3,11 +3,11 @@ title: "Web Sraping in Python"
 date: 2020, May 27
 author: Fabiano M
 categories: 
-        - Project
-        - Test
+        - blog
 tags: 
     - Python programming
     - Sraping
+    - Job test
 ---
 
 Hello there. How you doing?! 
