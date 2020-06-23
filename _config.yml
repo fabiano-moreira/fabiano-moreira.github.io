@@ -130,7 +130,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /language/
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/

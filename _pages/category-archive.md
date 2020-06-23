@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
-layout: language
-permalink: /language/
+layout: categories
+permalink: /categories/
 author_profile: true
 ---
