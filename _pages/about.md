@@ -32,5 +32,5 @@ Além disso, uso scrapping para obter os dados, em seguida eles são limpos e pr
 
 Meus objetivos neste blog são dar dicas, compartilhar conhecimentos e talvez ajudar com alguma experiência. Boas e ruins também. Afinal, somos eternos estudantes. Nesta área e na vida também.
 
-![](/assets/images/fabiano-about.jpg)
+![](/assets/images/fabiano-about.png)
 
