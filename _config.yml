@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data Science blog
+title: And Data and Science and Machine and Learnig
 email: "fabianomalves@protonmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Data Science, Machine Learning, Python, SQL, Data Analysis
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Fabiano M Alves"
   # avatar : "/assets/images/bio-photo.jpg"
-  avatar : "/assets/images/fabiano.jpg"
+  avatar : "https://fabianomalves.com/assets/images/fabiano.jpg"
   bio    : "Fabiano's data science and data analysis blog"
   links:
     - label: "Website"
