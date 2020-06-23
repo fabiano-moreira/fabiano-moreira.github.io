@@ -68,7 +68,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://fabianomalves.com/"
     - label: "E-mail"
-      icon: "fa fa-envelope-o"
+      icon: "fab fa-fw fa-envelope-o"
       url: "fabianomalves@protonmail.com"      
     # - label: "Twitter"
     # icon: "fab fa-fw fa-twitter-square"
