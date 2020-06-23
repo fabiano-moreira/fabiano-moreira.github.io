@@ -97,7 +97,11 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/fabiano-malves/"
-      
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : "fabianomalves-com"
+    
 defaults:
   # _posts
   - scope:
