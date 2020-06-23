@@ -3,6 +3,32 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# English
+---
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hello there. Welcome to my blog.
+
+I'm Fabiano.
+
+I'm learning and keep better my knowleges in the fiel of Data Science, Machine Learning and Data Analisys.
+
+I'm learning and improving my knowledge in the areas of Data Science, Machine Learning, and Data Analysis.
+
+Besides, I use scraping to get data, clean, and prepare. This keeps the job better and easier.
+
+My goals on this blog are to provide tips, share knowledge, and maybe help with some experience. Good and bad too. After all, we are eternal students. In this area and life too.
+
+
+# Portuguese
+---
+
+Olá. Seja bem vindo ao meu blog.
+
+Meu nome é Fabiano. 
+
+Estou estudando e aprimorando meus conhecimentos nas áreas de Data Science, Machine Learning e Análise de Dados.
+
+Além disso, uso scrapping para obter os dados, em seguida eles são limpos e preparados. Isto ajuda a deixar o trabalho melhor e mais fácil.
+
+Meus objetivos neste blog são dar dicas, compartilhar conhecimentos e talvez ajudar com alguma experiência. Boas e ruins também. Afinal, somos eternos estudantes. Nesta área e na vida também.
+
