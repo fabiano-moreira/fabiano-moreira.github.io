@@ -75,13 +75,13 @@ author:
     # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fabiano-moreira"
+      url: "https://github.com/fabianomalves"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/fabianomalves/"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/fabiano-malves/"
+      url: "https://www.linkedin.com/in/fabianomalves/"
 
 footer:
   links:
