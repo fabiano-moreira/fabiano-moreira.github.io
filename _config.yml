@@ -24,6 +24,12 @@ minimal_mistakes_skin: dark # default # "air", "aqua", "contrast", "dark", "dirt
 og_image: "/assets/images/fabiano-og.jpg"
 search: true
 
+# Analytics
+analytics:
+  provider               : "google"
+  google:
+    tracking_id          : "UA-122678291-2"
+    anonymize_ip         : # true, false (default)
 
 # Build settings
 markdown: kramdown
