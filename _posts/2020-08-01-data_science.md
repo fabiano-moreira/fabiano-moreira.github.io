@@ -10,15 +10,13 @@ tags:
 ---
 
 
-# Ciência de dados - Aulas Data Science Pro (Sob o guarda chuva do Python Pro)
-## Professor - Mauro Assis
-### Data Science
+### Ciêcia de Dados, falando um pouquinho sobre
 
-Opa... Bão? Bão! Bão tamém!!!
+Opa. Salve salve. Bão? Bão! Bão tamém!!!
 
 Vou começar a falar um pouquinho sobre meus estudos em Ciência de dados.
 
-Tudo começa com uma tentatica de descobrir algo.
+Tudo começa com uma tentativa de descobrir algo.
 
 Você usa o Método Científico para fazer todo seu processo.
 
