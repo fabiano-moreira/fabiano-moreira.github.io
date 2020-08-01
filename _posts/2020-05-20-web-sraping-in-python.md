@@ -1,19 +1,19 @@
 ---
 title: "Web Sraping in Python"
-date: 2019-05-20
-categories: 
+date: 2020-05-20
+categories:
     - english
-tags: 
-    - Python programming
+tags:
+    - Python Programming
     - Sraping
     - Job test
 ---
 
-Hello there. How you doing?! 
+Hello there. How you doing?!
 
 In this post, I'm sharing some code in Python. This code was a job test.
 
-That test consists of a Python script, whit a scrapy function. 
+That test consists of a Python script, whit a scrapy function.
 
 This scrapy looking for some entry in an online dictionary named Michaelis.
 
