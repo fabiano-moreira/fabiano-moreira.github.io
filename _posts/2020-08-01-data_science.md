@@ -76,4 +76,5 @@ Um abraço e inté mais!
 ### Referências:
 
 [O John Snow Médico que manja dos paraneuês](https://en.wikipedia.org/wiki/John_Snow)
+
 [O Outro Jon Snow que não sabe de nada](https://en.wikipedia.org/wiki/Jon_Snow_(character))
