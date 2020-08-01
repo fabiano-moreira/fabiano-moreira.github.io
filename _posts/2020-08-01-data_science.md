@@ -19,7 +19,7 @@ Opa... Bão? Bão! Bão tamém!!!
 
 Vou começar a falar um pouquinho sobre meus estudos em Ciência de dados.
 
-* O início da tentatica de descobrir algo(Método Científico)
+* O início da tentatica de descobrir algo (Método Científico)
 * Receita para obter conhecimento
 	* Pergunta
 	* Hipóteses
@@ -32,8 +32,9 @@ Vou começar a falar um pouquinho sobre meus estudos em Ciência de dados.
 
 ### Mas o que é Data Science
 
-* Processar dados para obter informações, que darão suporte à tomada de decisão. Mas esse trem tá vago. Preciso explicarmelhor:
-* Pego uma quantidade de dados pra começar a analisar.(Obtenção dos dados);	* Penso sobre o que eu quero saber a respeito de umproblema, por exemplo. (Qual minha pergunta e como eu vou procurar respostas);
+* Processar dados para obter informações, que darão suporte à tomada de decisão. Mas esse trem tá vago. Preciso explicar melhor:
+* Pego uma quantidade de dados pra começar a analisar.(Obtenção dos dados);
+* Penso sobre o que eu quero saber a respeito de umproblema, por exemplo. (Qual minha pergunta e como eu vou procurar respostas);
 * Organizo esses dados de uma forma que fiquem melhores. (Começo a transformar esses dados brutos em informação);
 * Utilizo alguma técnica ou ferramenta pra organizar esses dados e transformar em informação (Utilizar ferramentas pra gerar as informações);
 * Depois que já tenho essa informação, vejo se ela me serve. Se consigo responder uma pergunta com ela ou se ela me ajuda a resolver um problema;
