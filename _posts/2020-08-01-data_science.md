@@ -9,7 +9,6 @@ tags:
     - Estudos
 ---
 
-
 ## Ciência de Dados, falando um pouquinho sobre
 
 Opa. Salve salve. Bão? Bão! Bão tamém!!!
@@ -20,7 +19,7 @@ Tudo começa com uma tentativa de descobrir algo.
 
 Você usa o Método Científico para fazer todo seu processo.
 
-O Método Ciêntífico pode ser comparado a uma receita. Receita para obter conhecimento.
+O Método Cientifico pode ser comparado a uma receita. Receita para obter conhecimento.
 
 Um cara que lá pelos idos de 1800 e guaraná de rolha utilizou do método científico pra resolver um problema foi o John Snow (Num é o Jon Snow do Game of Thrones não... Esse John aqui manja dos outros paranauês. Era médico, cientista e foi praticamente o fundador da Ciência de Dados Geográfica). Esse cientista e médico foi uma das primeiras pessoas que utilizou dados para resolver problemas e ficou conhecido por isso, muitos anos depois.
 
@@ -32,7 +31,7 @@ Então, você começa com uma pergunta e propõe uma hipótese para responder a 
 
 Para responder à sua pergunta, você precisa de dados. Depois esses dados viram informação.
 
-Hoje temos uma quantidade abusurda de dados e todo dia essa quantidade aumenta. Por isso precisamos de técnicas pra organizar, analisar e descobrir coisas sobre esses dados.
+Hoje temos uma quantidade absurda de dados e todo dia essa quantidade aumenta. Por isso precisamos de técnicas pra organizar, analisar e descobrir coisas sobre esses dados.
 
 ## Mas o que é Data Science
 
@@ -40,7 +39,7 @@ Processar dados para obter informações, que darão suporte à tomada de decis�
 
 Pego uma quantidade de dados pra começar a analisar.(Obtenção dos dados).
 
-Penso sobre o que eu quero saber a respeito de umproblema, por exemplo. (Qual minha pergunta e como eu vou procurar respostas).
+Penso sobre o que eu quero saber a respeito de um problema, por exemplo. (Qual minha pergunta e como eu vou procurar respostas).
 
 Organizo esses dados de uma forma que fiquem melhores. (Começo a transformar esses dados brutos em informação).
 
@@ -61,10 +60,10 @@ Se eu estou com um ou mais problemas (também posso falar que é minha pergunta)
 Bão, vou dar um exemplo de uma pergunta e do processo:
 
 * Conheço o seu Zé. Ele tem um supermercado e seu concorrente mais próximo é o supermercado do seu Astolfo. Seu Zé me contratou pra descobrir como melhorar suas vendas, então sentamos, tomamos café, comemos pão de queijo, uns torresminhos e na conversa ele me disse que os dois têm os dois mercados têm os mesmos produtos, mas seu Astolfo parece que o mercado de seu Astolfo têm mais pessoas entrando;
-* Uma pergunta é: o que diferencia os dois mercados (oia a primeira pergunta aqui). Vamo fazer uma pesquisa de preços e produtos. Os dois mercados têm sites com informações que podem ajudar;
-* Então fui lá, pesquisei os preços do seu Astolfo, todosos produtos, gerei uma planilha com os dados (oia aquiocomeço da análise. Obtendo os dados);
-* Depois fiz o mesmo com seu Zé. Peguei as duas planilhase fiz a comparação dos produtos e preços com o Excel (oiaa ferramenta entrando nessa parte);
-* E criei uma outra planilha como se fosse um relatóriopra mostrar ao seu Zé o que descobri(oia agora a resposta);
+* Uma pergunta é: o que diferencia os dois mercados (oia a primeira pergunta aqui). Vamos fazer uma pesquisa de preços e produtos. Os dois mercados têm sites com informações que podem ajudar;
+* Então fui lá, pesquisei os preços do seu Astolfo, todos os produtos, gerei uma planilha com os dados (oia aqui o começo da análise. Obtendo os dados);
+* Depois fiz o mesmo com seu Zé. Peguei as duas planilhas e fiz a comparação dos produtos e preços com o Excel (oia a ferramenta entrando nessa parte);
+* E criei uma outra planilha como se fosse um relatório pra mostrar ao seu Zé o que descobri(oia agora a resposta);
 * No final, descobri alguns produtos que o seu Astolfo tinha e que seu Zé, não. E também alguns produtos que no Zé eram muuuuito mais caro e no Astolfo era beeem mais barato. Depois disso será uma questão de ajuste de preços, comercializar novos produtos e começar outro processo pra mostrar no site essas diferenças (chamando atenção dos clientes pra seu mercado).
 
 ## Finalizando
@@ -74,4 +73,7 @@ Bem, por hora é isso.
 
 Um abraço e inté mais!
 
+### Referências:
 
+[O John Snow Médico que manja dos paraneuês](https://en.wikipedia.org/wiki/John_Snow)
+[O Outro Jon Snow que não sabe de nada](https://en.wikipedia.org/wiki/Jon_Snow_(character))
