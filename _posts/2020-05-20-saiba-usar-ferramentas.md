@@ -65,14 +65,10 @@ Um abraço e inté mais!
 
 ### Referências e créditos:
 
-#### Limite de linhas para o Microsoft Excel:
-https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3#ID0EBABAAA=Newer_versions
+[Limite de linhas para o Microsoft Excel](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3#ID0EBABAAA=Newer_versions)
 
-#### Software para abrir grandes arquivos:
-https://www.ultraedit.com/support/tutorials-power-tips/ultraedit/large-file-handling.html
+[Software para abrir grandes arquivos](https://www.ultraedit.com/support/tutorials-power-tips/ultraedit/large-file-handling.html)
 
-#### Ler CSV no Pandas:
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+[Ler CSV no Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)
 
-#### Créditos da Imagem:
-https://www.oliviascuisine.com/authentic-brazilian-cheese-bread/
+[Créditos da Imagem](https://www.oliviascuisine.com/authentic-brazilian-cheese-bread/)
