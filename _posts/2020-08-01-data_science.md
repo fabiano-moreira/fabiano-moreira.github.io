@@ -10,7 +10,7 @@ tags:
 ---
 
 
-### Ciêcia de Dados, falando um pouquinho sobre
+## Ciência de Dados, falando um pouquinho sobre
 
 Opa. Salve salve. Bão? Bão! Bão tamém!!!
 
@@ -34,7 +34,7 @@ Para responder à sua pergunta, você precisa de dados. Depois esses dados viram
 
 Hoje temos uma quantidade abusurda de dados e todo dia essa quantidade aumenta. Por isso precisamos de técnicas pra organizar, analisar e descobrir coisas sobre esses dados.
 
-### Mas o que é Data Science
+## Mas o que é Data Science
 
 Processar dados para obter informações, que darão suporte à tomada de decisão. Mas esse trem tá vago. Preciso explicar melhor.
 
@@ -50,7 +50,7 @@ Depois que já tenho essa informação, vejo se ela me serve. Se consigo respond
 
 Consegui responder a minha pergunta? Então eu vejo se tenho outras perguntas ou problemas, se o que eu descobri resolve ou se tenho que começar de novo pra descobrir coisas novas. (Com a informação que eu descobri depois das análises, eu posso responder uma ou mais perguntas com ela). Mas que pergunta é essa?!
 
-### Perguntas e Problemas que a Ciência de Dados pode ajudar a responder. (Ou o cimento é só pra construir casa, ou consigo fazer panela também?!):
+## Perguntas e Problemas que a Ciência de Dados pode ajudar a responder. (Ou o cimento é só pra construir casa, ou consigo fazer panela também?!):
 
 Antes de botar a mão na massa, você precisa saber o que quer.
 
@@ -67,7 +67,7 @@ Bão, vou dar um exemplo de uma pergunta e do processo:
 * E criei uma outra planilha como se fosse um relatóriopra mostrar ao seu Zé o que descobri(oia agora a resposta);
 * No final, descobri alguns produtos que o seu Astolfo tinha e que seu Zé, não. E também alguns produtos que no Zé eram muuuuito mais caro e no Astolfo era beeem mais barato. Depois disso será uma questão de ajuste de preços, comercializar novos produtos e começar outro processo pra mostrar no site essas diferenças (chamando atenção dos clientes pra seu mercado).
 
-### Finalizando
+## Finalizando
 Lógico que foi algo beeem simples, uma análise pra descobrir algo coisa e o que pude aprender com essa análise. Mas as coisa podem começar pequenas e vão aumentando em dificuldade e complexidade à medida que fica mais safo e outras situações aparecem.
 
 Bem, por hora é isso.
