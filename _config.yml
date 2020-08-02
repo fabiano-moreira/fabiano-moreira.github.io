@@ -88,7 +88,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/fabianomalves/"
-      youtube: "https://www.youtube.com/channel/UCuECtHiu-C0rNkwZjoLdsCA?view_as=subscriber"
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url:  "https://www.youtube.com/channel/UCuECtHiu-C0rNkwZjoLdsCA?view_as=subscriber"
 
 footer:
   links:
