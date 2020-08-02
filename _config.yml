@@ -91,6 +91,11 @@ author:
     - label: "Youtube"
       icon: "fab fa-youtube"
       url:  "https://www.youtube.com/channel/UCuECtHiu-C0rNkwZjoLdsCA?view_as=subscriber"
+    - label: "Pinterest"
+      icon: "fa fa-pinterest-p"
+      url:  "https://br.pinterest.com/fabianomalve/"
+
+
 
 footer:
   links:
@@ -106,6 +111,12 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/fabianomalves/"
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url:  "https://www.youtube.com/channel/UCuECtHiu-C0rNkwZjoLdsCA?view_as=subscriber"
+    - label: "Pinterest"
+      icon: "fa fa-pinterest-p"
+      url:  "https://br.pinterest.com/fabianomalve/"
 
 comments:
   provider               : "disqus"
