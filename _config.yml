@@ -92,7 +92,7 @@ author:
       icon: "fab fa-youtube"
       url:  "https://www.youtube.com/channel/UCuECtHiu-C0rNkwZjoLdsCA?view_as=subscriber"
     - label: "Pinterest"
-      icon: "fa fa-pinterest-p"
+      icon: "fa fa-pinterest"
       url:  "https://br.pinterest.com/fabianomalve/"
 
 
@@ -115,7 +115,7 @@ footer:
       icon: "fab fa-youtube"
       url:  "https://www.youtube.com/channel/UCuECtHiu-C0rNkwZjoLdsCA?view_as=subscriber"
     - label: "Pinterest"
-      icon: "fa fa-pinterest-p"
+      icon: "fa fa-pinterest"
       url:  "https://br.pinterest.com/fabianomalve/"
 
 comments:
