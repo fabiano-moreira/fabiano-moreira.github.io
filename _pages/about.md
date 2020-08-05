@@ -24,7 +24,7 @@ My goals on this blog are to provide tips, share knowledge, and maybe help with 
 
 Olá. Seja bem vindo ao meu blog.
 
-Meu nome é Fabiano. 
+Meu nome é Fabiano.
 
 Estou estudando e aprimorando meus conhecimentos nas áreas de Data Science, Machine Learning e Análise de Dados.
 
