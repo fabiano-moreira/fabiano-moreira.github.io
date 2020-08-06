@@ -17,6 +17,8 @@ title: Data Science, Python, Machine Learning
 email: "fabianomalves@protonmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Data Science, Machine Learning, Python, SQL, Data Analysis.
+url: "https://fabianomalves.com/"
+baseurl: "" # NOTE: This _needs_ to be an empty string, and not blank (`nil`)
 twitter_username: username
 github_username: username
 linkedin_username: username
@@ -68,6 +70,7 @@ author:
   name   : "Fabiano M Alves"
   # avatar : "/assets/images/bio-photo.jpg"
   avatar : "/assets/images/fabiano.jpg"
+  uri: "https://fabianomalves.com/"
   bio    : "Fabiano's data science and data analysis blog"
   links:
     - label: "Website"
