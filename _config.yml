@@ -36,8 +36,7 @@ analytics:
 # Build settings
 markdown: kramdown
 #theme                  : "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
-#remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 #remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:year/:month/:day/:title/
